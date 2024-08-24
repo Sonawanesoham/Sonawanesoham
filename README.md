@@ -1,24 +1,24 @@
-<h1 align="center">Hi 👋, I'm Tushar Shinde</h1>
+<h1 align="center">Hi 👋, I'm Soham Sonawane</h1>
 <h3 align="center">.NET Core Developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Tushar-Shinde30&label=Profile%20views&color=0e75b6&style=flat" alt="Tushar-Shinde30" /> 
+  <img src="https://komarev.com/ghpvc/?username=Sonawanesoham&label=Profile%20views&color=0e75b6&style=flat" alt="Sonawanesoham" /> 
 </p>
 
 - 🌱 I’m currently working on *Dot Net Technology*
 
-- 📫 How to reach me: *tusharsshinde15@gmail.com*
+- 📫 How to reach me: *sonawane.sohamvcoe@gmail.com*
 
 - ⚡ Fun fact: *I am not an Einstein*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://github.com/Tushar-Shinde30" target="_blank">
+<a href="https://github.com/Sonawanesoham" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
 </a>
-<a href="https://www.linkedin.com/in/tushar-shinde-984705213/" target="_blank">
+<a href="https://www.linkedin.com/in/soham-sonawane-4b570b20a/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 </p>
@@ -75,8 +75,8 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tushar-Shinde30&show_icons=true&locale=en&layout=compact" alt="Tushar-Shinde30" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sonawanesoham&show_icons=true&locale=en&layout=compact" alt="Sonawanesoham" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tushar-Shinde30&show_icons=true&locale=en" alt="Tushar-Shinde30" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sonawanesoham&show_icons=true&locale=en" alt="Sonawanesoham" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tushar-Shinde30&" alt="Tushar-Shinde30" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sonawanesoham&" alt="Sonawanesoham" /></p>
